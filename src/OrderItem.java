@@ -4,7 +4,7 @@
  * @author  TongAo
  * id：20154905
  * data：2016/10/11
- * @version  1.0.0
+ * @version  1.0.1
  */
 class OrderItem{
 	private int quantity;
